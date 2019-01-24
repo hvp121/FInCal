@@ -5,9 +5,26 @@ Done
 
 
 
-Remaining : 
+
 1 ) IDEAL - Smart SIP Calculator with 
 loan amount suggest SIP amount
 calc final loan amount 
 put it into goal planner
 and calculate SIP amount
+
+
+2 ) Analyze Your SIP
+Just Reverse the SIP Formula
+
+Find Return = Using SIP Current amount + SIP Start Date + Monthly Investement
+https://www.personalfn.com/calculator/sip-calculator
+
+Means - XIRR Calculator(Find Program)
+
+
+3) CAGR Calculator
+https://www.basunivesh.com/2018/10/23/xirr-in-mutual-funds-what-is-this-and-how-to-calculate/
+compounded annualized growth rate
+This is just for one lump sum investments
+CAGR = ((Ending Amount (FV)/Beginning Amount(PV))^(1/No. of years(N))) – 1
+
